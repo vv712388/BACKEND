@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520">
+  <rect width="800" height="520" rx="10" fill="#0C0C0C"/>
+  <rect x="0" y="0" width="800" height="35" rx="10" fill="#2D2D2D"/>
+  <rect x="0" y="25" width="800" height="10" fill="#2D2D2D"/>
+  <circle cx="20" cy="17" r="6" fill="#F93E3E"/>
+  <circle cx="40" cy="17" r="6" fill="#FCA130"/>
+  <circle cx="60" cy="17" r="6" fill="#49CC90"/>
+  <text x="400" y="22" fill="#AAAAAA" font-size="12" font-family="Consolas, monospace" text-anchor="middle">Terminal — SQLite3 CLI</text>
+  <text x="20" y="55" fill="#49CC90" font-size="13" font-family="Consolas, monospace">$ sqlite3 books.db</text>
+  <text x="20" y="77" fill="#AAAAAA" font-size="13" font-family="Consolas, monospace">SQLite version 3.39.0</text>
+  <text x="20" y="99" fill="#61AFFE" font-size="13" font-family="Consolas, monospace">sqlite&gt; .headers on</text>
+  <text x="20" y="121" fill="#61AFFE" font-size="13" font-family="Consolas, monospace">sqlite&gt; .mode column</text>
+  <text x="20" y="143" fill="#61AFFE" font-size="13" font-family="Consolas, monospace">sqlite&gt; SELECT * FROM book;</text>
+  <text x="20" y="165" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace"></text>
+  <text x="20" y="187" fill="#FCA130" font-size="13" font-family="Consolas, monospace">id  title                   author                price  pages</text>
+  <text x="20" y="209" fill="#666666" font-size="13" font-family="Consolas, monospace">--  ----------------------  --------------------  -----  -----</text>
+  <text x="20" y="231" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace">1   The Great Gatsby        F. Scott Fitzgerald   350    180</text>
+  <text x="20" y="253" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace">2   To Kill a Mockingbird   Harper Lee            400    281</text>
+  <text x="20" y="275" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace">3   1984 (Updated Edition)  George Orwell         350    340</text>
+  <text x="20" y="297" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace">4   The Catcher in the Rye  J.D. Salinger         250    234</text>
+  <text x="20" y="319" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace">6   The Hobbit              J.R.R. Tolkien        500    310</text>
+  <text x="20" y="341" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace">7   Brave New World         Aldous Huxley         280    288</text>
+  <text x="20" y="363" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace">8   The Alchemist           Paulo Coelho          320    197</text>
+  <text x="20" y="385" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace">9   Fahrenheit 451          Ray Bradbury          270    194</text>
+  <text x="20" y="407" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace">10  The Lord of the Rings   J.R.R. Tolkien        750    1178</text>
+  <text x="20" y="429" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace">11  Clean Code              Robert C. Martin      450    464</text>
+  <text x="20" y="451" fill="#D4D4D4" font-size="13" font-family="Consolas, monospace"></text>
+  <text x="20" y="473" fill="#61AFFE" font-size="13" font-family="Consolas, monospace">sqlite&gt; .quit</text>
+</svg>

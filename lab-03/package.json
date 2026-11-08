@@ -1,0 +1,15 @@
+{
+  "name": "lab-03-rest-api",
+  "version": "1.0.0",
+  "description": "REST API with query parameters, validation, and debugging",
+  "main": "app.js",
+  "scripts": {
+    "setup": "node setupDb.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
